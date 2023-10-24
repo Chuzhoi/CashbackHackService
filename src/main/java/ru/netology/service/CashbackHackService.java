@@ -7,3 +7,4 @@ public class CashbackHackService {
         return boundary - amount % boundary;
     }
 }
+// Здравствуйте, я прерывл обучение на этом модуле, это задание у меня было сделано)
