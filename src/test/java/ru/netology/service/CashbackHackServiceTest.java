@@ -41,3 +41,4 @@ public class CashbackHackServiceTest {
         Assert.assertEquals(actual, expected);
     }
 }
+// для коммита
